@@ -1,4 +1,4 @@
-let XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
+let XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;//Dependencia
 
 function fetchData(url_api, callback) {
     let xhttp = new XMLHttpRequest();
