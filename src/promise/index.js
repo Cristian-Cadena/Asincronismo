@@ -20,7 +20,7 @@ somethingWillHappen2()
 .catch(err => console.error(err));
 
 /*
-Parra correr todas las promesas que tenemos, el metodo Promise.all() retornara
+Para correr todas las promesas que tenemos, el metodo Promise.all() retornara
 un array con la respuesta de todas las promesas que pasemos como parametro.
 */
 

@@ -1,4 +1,4 @@
-//XMLHttpRequest: Objeto de JS para hacer peticiones a algun servicio en la nube.
+//XMLHttpRequest: Dependencia u objeto de JS para hacer peticiones a algun servicio en la nube.
 let XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 //Permite hacer instancias a un llamado a una API desde de JS.
 let API = 'https://rickandmortyapi.com/api/character/' //Variable de la URL API
